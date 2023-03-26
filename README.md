@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working as a data engineer at SS&C Technologies<br>I'm expert in SSIS using KingswaySoft with different integrations with Microsoft Dynamics 365, Salesforce, Black Diamond, Orion<br>I also worked on AWS Redshift, Glue, S3, DynamoDB, Cloud formation<br>I have extensive knowledge on Python, Azure Data Factory, Data Bricks, synapse<br><br>
+I'm working as a data engineer at SS&C Technologies<br>I'm expert in SSIS using KingswaySoft with different integrations with Microsoft Dynamics 365, Salesforce, Black Diamond, Orion<br>I also worked on AWS Redshift, Glue, S3, DynamoDB, Cloud formation, Airflow<br>I have extensive knowledge on Python, Azure Data Factory, Data Bricks, synapse<br><br>
 
 
 # 💻 Tech Stack:
